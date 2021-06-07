@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998364829690",
+    "project_id": "tmg-chatapp-c5c58",
+    "storage_bucket": "tmg-chatapp-c5c58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998364829690:android:ae465bb5bf6d0b25c2b643",
+        "android_client_info": {
+          "package_name": "com.example.tmg_chata_pp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998364829690-5bnvm5mg6303iu7cq6aivcairgcrkvej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tmg_chata_pp",
+            "certificate_hash": "39a7ae8d804dd71cc8d7df44ebaeb77c11b936df"
+          }
+        },
+        {
+          "client_id": "998364829690-kq56f2g0bpl5lej7va9c28ef6mtrific.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uRNTmZyeAeHm8JV-2qvmHVEq3y8ANmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998364829690-kq56f2g0bpl5lej7va9c28ef6mtrific.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
